@@ -7,3 +7,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Ishwar1432/Hello-.git
 git push -u origin main
+print("this is basic python program")
